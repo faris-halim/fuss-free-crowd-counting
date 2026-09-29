@@ -1,7 +1,6 @@
-# created by virtualenv automatically
+venv/
 __pycache__/
+*.pyc
+train_data/
+test_data/
 .ipynb_checkpoints/
-
-[user]
-	name = erdongsanshi
-	email = 1298116189@qq.com
