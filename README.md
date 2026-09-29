@@ -1,4 +1,19 @@
 # The Effectiveness of a Simplified Structure for Crowd Counting
+# Fuss-Free Crowd Counting
+
+AI-based crowd counting using FFNet.
+
+## 🚀 Live Demo
+
+👉 [Try the Live App](https://fuss-free-crowd-counting-hbt2hm8wtpecbuuyqqmcje.streamlit.app/)
+
+## 🛠️ Tech Stack
+
+- Python
+- PyTorch
+- Streamlit
+- FFNet
+- ShanghaiTech Part B
 
 This repository includes the official implementation of the paper:[The Effectiveness of a Simplified Structure for Crowd Counting](https://ieeexplore.ieee.org/document/10938701)
 
