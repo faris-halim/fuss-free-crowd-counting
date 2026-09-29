@@ -5,7 +5,7 @@ AI-based crowd counting using FFNet.
 
 ## 🚀 Live Demo
 
-👉 [Try the Live App](https://fuss-free-crowd-counting-hbt2hm8wtpecbuuyqqmcje.streamlit.app/)
+👉 [Try the Live App](https://fuss-free-crowd-counting.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
